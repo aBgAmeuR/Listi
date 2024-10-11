@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:svgjs="http://svgjs.dev/svgjs" width="256" height="256"><svg viewBox="0 0 256 256">
+  <path d="M153.6 36.2794H243.2M153.6 97.4264H243.2M153.6 170.803H243.2M153.6 231.95H243.2M25.6 24.05H89.6C96.6692 24.05 102.4 29.5253 102.4 36.2794V97.4264C102.4 104.18 96.6692 109.656 89.6 109.656H25.6C18.5307 109.656 12.8 104.18 12.8 97.4264V36.2794C12.8 29.5253 18.5307 24.05 25.6 24.05Z" stroke="currentColor" fill="transparent" stroke-width="19.2" stroke-linecap="round" stroke-linejoin="round"></path>
+  <path d="M12.8 145.592H21.4227L32.891 222.201C33.3117 225.007 34.4028 227.515 35.9767 229.294C37.5505 231.072 39.5085 232.011 41.5137 231.947H83.679C85.6414 231.942 87.5441 230.98 89.0726 229.22C90.6012 227.459 91.6643 225.005 92.0862 222.263L99.2 176.433H26.0359" stroke="#DC2626" fill="transparent" stroke-width="19.2" stroke-linecap="round" stroke-linejoin="round"></path>
+</svg><style>@media (prefers-color-scheme: light) { :root { filter: none; } }
+@media (prefers-color-scheme: dark) { :root { filter: none; } }
+</style></svg>
