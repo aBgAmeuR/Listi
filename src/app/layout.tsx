@@ -57,7 +57,7 @@ const RootLayout = ({ children }: PropsWithChildren) => {
         <ThemeProvider attribute="class">
           <TooltipProvider delayDuration={10}>
             <main className="flex h-screen min-h-svh flex-col overflow-hidden">
-              {children}
+              <div className="flex w-full flex-1 flex-col">{children}</div>
             </main>
             <SpeedInsights />
             <Analytics />
